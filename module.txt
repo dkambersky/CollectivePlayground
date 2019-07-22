@@ -1,0 +1,9 @@
+{
+    "id" : "CollectivePlayground",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "dkambersky",
+    "displayName" : "CollectivePlayground",
+    "description" : "Playground for testing out group behavior ideas",
+    "dependencies" : [],
+    "serverSideOnly" : false
+}

@@ -1,0 +1,11 @@
+{
+      selector: [
+         {
+            guard: {
+                componentPresent: "CollectivePlayground:Group",
+                child: { log: {message: "Yo, I'm in a group!"}}
+            }
+         },
+         { lookup: { tree: "Behaviors:stray" }}
+      ]
+}
